@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" modified="2021-12-27T23:59:52.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6isko6pKjM7_QIzug2QA" version="16.1.0" type="github">
+  <diagram id="xQCqjUO8_7DrCyb79ZHe" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-2" target="gZKQfQAABZBg4z4Ao1Bx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-2" value="Delete Button" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="94.44" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-4" target="gZKQfQAABZBg4z4Ao1Bx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-4" value="Call Route&lt;br&gt;&lt;br&gt;POST&lt;br&gt;/admin/delete-product" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-6" target="gZKQfQAABZBg4z4Ao1Bx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-6" value="Controller&lt;br&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;postDeleteProduct&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="273" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-8" value="View " style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="380" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-3" value="User&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="gZKQfQAABZBg4z4Ao1Bx-8">
+          <mxGeometry x="70" y="87.25" width="67.53" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-9" target="gZKQfQAABZBg4z4Ao1Bx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-9" target="gZKQfQAABZBg4z4Ao1Bx-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1045" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-9" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;Data Model: Method from Class&lt;/div&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: #4ec9b0&quot;&gt;Product&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa&quot;&gt;deleteById&lt;/span&gt;(&lt;span style=&quot;color: #4fc1ff&quot;&gt;prodId&lt;/span&gt;);&lt;/div&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;(data change)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="260" width="250" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-13" value="Controller " style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-23" value="Command the actions. What the program will do?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gZKQfQAABZBg4z4Ao1Bx-13">
+          <mxGeometry x="30" y="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-14" value="Model" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="900" y="183.5" width="650" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-11" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;Model: Update Cart Info&lt;/div&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: #4ec9b0&quot;&gt;Cart&lt;/span&gt;.&lt;span style=&quot;color: #dcdcaa&quot;&gt;deleteProduct&lt;/span&gt;(&lt;span style=&quot;color: #9cdcfe&quot;&gt;id&lt;/span&gt;, &lt;span style=&quot;color: #4fc1ff&quot;&gt;product&lt;/span&gt;.&lt;span style=&quot;color: #9cdcfe&quot;&gt;price&lt;/span&gt;);&lt;/div&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;(data change)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="gZKQfQAABZBg4z4Ao1Bx-14">
+          <mxGeometry x="350" y="89" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-22" value="All the operation, calculations, logic happens here&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gZKQfQAABZBg4z4Ao1Bx-14">
+          <mxGeometry x="160" y="26.5" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-15" value="Data" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="910" y="500" width="650" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-21" value="Ddatabase data is changed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gZKQfQAABZBg4z4Ao1Bx-15">
+          <mxGeometry x="180" y="170" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-25" value="&lt;b&gt;Product.json is altered&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="gZKQfQAABZBg4z4Ao1Bx-15">
+          <mxGeometry x="90" y="100" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-26" value="&lt;b&gt;Cart.json is altered&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="gZKQfQAABZBg4z4Ao1Bx-15">
+          <mxGeometry x="407.5" y="90" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-11" target="gZKQfQAABZBg4z4Ao1Bx-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1347.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-24" value="Connects the FE with BE&lt;br&gt;Where the API calls live" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="345" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
