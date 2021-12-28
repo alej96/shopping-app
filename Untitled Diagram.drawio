@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T23:54:54.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QCVuey_2Nk0HUXwmxGVR" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T23:59:52.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6isko6pKjM7_QIzug2QA" version="16.1.0" type="github">
   <diagram id="xQCqjUO8_7DrCyb79ZHe" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="gZKQfQAABZBg4z4Ao1Bx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-4" target="gZKQfQAABZBg4z4Ao1Bx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-4" value="Route&lt;br&gt;/admin/delete-product" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gZKQfQAABZBg4z4Ao1Bx-4" value="Call Route&lt;br&gt;&lt;br&gt;POST&lt;br&gt;/admin/delete-product" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="273" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gZKQfQAABZBg4z4Ao1Bx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gZKQfQAABZBg4z4Ao1Bx-6" target="gZKQfQAABZBg4z4Ao1Bx-9">
